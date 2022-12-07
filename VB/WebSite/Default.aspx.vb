@@ -1,8 +1,7 @@
 ﻿Imports Microsoft.VisualBasic
 Imports System
 Imports System.Collections.Generic
-Imports DevExpress.Web.ASPxCallback
-Imports DevExpress.Web.ASPxEditors
+Imports DevExpress.Web
 
 Partial Public Class _Default
 	Inherits System.Web.UI.Page
